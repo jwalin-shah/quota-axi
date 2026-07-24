@@ -5,23 +5,7 @@ user-invocable: false
 author: Kun Chen (kunchenguid)
 metadata:
   hermes:
-    tags:
-      [
-        quota,
-        rate-limits,
-        claude,
-        codex,
-        cursor,
-        tokenrouter,
-        openrouter,
-        pioneer,
-        commandcode,
-        runpod,
-        fireworks,
-        daytona,
-        antigravity,
-        cli,
-      ]
+    tags: [quota, rate-limits, claude, codex, cursor, tokenrouter, openrouter, pioneer, commandcode, runpod, fireworks, daytona, antigravity, cli]
     category: observability
 ---
 
